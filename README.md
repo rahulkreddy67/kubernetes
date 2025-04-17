@@ -1,2 +1,3 @@
 # kubernetes
-repo for general Kubernetes, OKD and OpenShift
+Repo for Kubernetes, OKD and also OpenShift
+Learnings, Manifests and Files
